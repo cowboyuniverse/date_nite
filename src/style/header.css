@@ -1,0 +1,23 @@
+.header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom:1px solid #f9f9f9;
+}
+
+.App-logo {
+    height: 40px;
+    object-fit:contain;
+    width:90px;
+    /* padding:20px; */
+}
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+
+.header__icon{
+    padding:20px;
+}
+

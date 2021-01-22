@@ -1,0 +1,54 @@
+.swipeButtons{
+    position: fixed;
+    bottom:15vh;
+    width: 100%;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.swipeButtons .MuiIconButton-root{
+    background-color: white;
+    box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3) !important;
+}
+.swipeButtons__repeat {
+    padding: 3vw !important;
+    color: #f5b748 !important;
+}
+.swipeButtons__closeIcon {
+    padding: 3vw !important;
+    color: #ec5e6f !important;
+}
+.swipeButtons__starRateIcon {
+    padding: 3vw !important;
+    color: #62b4f9 !important;
+}
+.swipeButtons__favoriteIcon {
+    padding: 3vw !important;
+    color: #76e2b3 !important;
+}
+.swipeButtons__flashOnIcon {
+    padding: 3vw !important;
+    color: #915dd1 !important;
+}
+     
+
+/* .swipeButtons__closeIcon{
+    background-color: white;
+    box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3) !important;
+}
+
+.swipeButtons__starRateIcon{
+    background-color: white;
+    box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3) !important;
+}
+
+.swipeButtons__favoriteIcon{
+    background-color: white;
+    box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3) !important;
+} */
+
+.swipeButtons__flashOnIcon{
+    background-color: white;
+    box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3) !important;
+}
+
